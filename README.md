@@ -30,7 +30,7 @@ The UI shows which agent is working at each step.
 You need Python 3.10+ and a free API key from [console.groq.com](https://console.groq.com).
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ayesha-noor12/studyhive
 cd studyhive
 python3 -m venv .venv
 source .venv/bin/activate
